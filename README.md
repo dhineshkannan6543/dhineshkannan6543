@@ -1,16 +1,48 @@
-## Hi there 👋
+# Dhinesh K
 
-<!--
-**dhineshkannan6543/dhineshkannan6543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer specializing in LLMs, RAG architectures, Deep Learning, and scalable Python backend systems.
 
-Here are some ideas to get you started:
+## Featured Production Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DiscountDost Gold Platform
+
+Production-grade digital gold savings and loyalty platform.
+
+Live: https://discountdost.com/gold & https://discountdost.com
+
+### iVendGold
+
+Digital gold investment and exchange platform.
+
+Live: https://ivendgold.com
+
+### AI Capstone Project with Deep Learning
+
+Deep learning implementations using TensorFlow/Keras and PyTorch.
+
+Repository:
+https://github.com/dhineshkannan6543/AI-Capstone-Project-with-Deep-Learning
+
+## Skills
+
+- Python
+- Flask
+- TensorFlow
+- PyTorch
+- LangChain
+- RAG
+- LLMs
+- MongoDB
+- AWS
+- Docker
+- Linux
+
+## Certifications
+
+- IBM AI Capstone Project with Deep Learning
+- IBM Machine Learning with Python
+- IBM Generative AI and LLMs
+- IBM Deep Learning with TensorFlow & Keras
+- IBM Deep Learning with PyTorch
+- SEED-AI (Deakin University)
+- Diploma in Artificial Intelligence (Expert)
